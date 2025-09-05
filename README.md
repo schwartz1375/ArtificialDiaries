@@ -14,6 +14,11 @@ Exploring memory architectures and their critical role in enabling truly autonom
 
 A practical guide for security professionals to understand and leverage machine learning beyond generative AI applications.
 
+### Managing Context Rot with Amazon Q CLI's Experimental /knowledge Command
+**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_manage-context-rot-by-exploring-new-experimental-activity-7348451654385459201-5n70)**
+
+Introducing semantic knowledge indexing capabilities in Amazon Q CLI to maintain persistent context across chat sessions without token budget constraints.
+
 ### Securing Enterprise Cognition: A CISO's White Paper for the Generative-AI Era
 **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_securing-enterprise-cognition-activity-7343473748672479232-2VCM)** | **[PDF](./PDFs/Securing_Enterprise_Cognition.pdf)**
 
