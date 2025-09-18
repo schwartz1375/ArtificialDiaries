@@ -96,9 +96,9 @@ Analysis of emergent capabilities in large language models and their implication
 Technical guide to deploying open-source AI models locally.
 
 ### macOS 26 Apple Container CLI: First-Party Containerization for AI Workloads
-**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_macos-26-apple-container-activity-7373530681509064704-eYxB)**
+**[GitHub Repository](https://github.com/schwartz1375/openwebui-apple-container)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_macos-26-apple-container-activity-7373530681509064704-eYxB)**
 
-Exploring Apple's new first-party container CLI built on its Containerization framework, with practical guidance for hosting Open-WebUI and analysis of Apple's isolation model.
+Exploring Apple's new first-party container CLI built on its Containerization framework, with practical guidance for hosting Open-WebUI and analysis of Apple's isolation model. The GitHub repository includes implementation scripts and detailed setup instructions.
 
 ## Practical Implementations
 
