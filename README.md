@@ -4,6 +4,10 @@ This repository showcases my research and thought leadership in AI security, mac
 
 ## Featured Publications
 
+### AI Agents Security
+**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_ai-agents-security-threat-models-mitigations-activity-7383118979332145152-lnMk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)** | **[PDF](./PDFs/AI_Agents_Security.pdf)**
+
+Slide presentation covering key concepts in AI agent security, including threat models, attack surfaces, and considerations across tools, memory, and orchestration layers.
 ### Memory for Agentic AI
 **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_memory-for-agentic-ai-activity-7367139808722296832-PUGD)** | **[PDF](./PDFs/Memory_for_Agentic_AI.pdf)**
 
