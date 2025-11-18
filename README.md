@@ -1,6 +1,6 @@
 # AI Security & Research Publications
 
-This repository showcases my research and thought leadership in AI security, machine learning, and emerging technologies. All content is originally published on my [LinkedIn profile](https://www.linkedin.com/in/schwartz1375/).
+This repository showcases my research, practical implementations, and thought leadership in AI security, machine learning, and emerging technologies. Most content is originally published on my [LinkedIn profile](https://www.linkedin.com/in/schwartz1375/).
 
 ## Featured Publications
 
@@ -115,6 +115,12 @@ Jupyter notebooks covering essential concepts in Generative AI and Large Languag
 - Multimodal AI and document understanding
 - Agent frameworks and architectures
 - Model Context Protocol (MCP) integration for AI tool security
+
+### Secure MCP AgentCore for Amazon Bedrock
+
+**[GitHub Repository](https://github.com/schwartz1375/secure_mcp_agentcore)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_aws-amazonbedrock-agentcore-share-7396530706883026944-ATvy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+
+Reference architecture and hands-on guides for securing Anthropic-style [“code execution with MCP”](https://www.anthropic.com/engineering/code-execution-with-mcp) patterns on AWS using Amazon Bedrock AgentCore, including strong isolation patterns, a design whitepaper, an executable lab notebook, and a console runbook.
 
 ---
 
