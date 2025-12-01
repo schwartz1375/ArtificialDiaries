@@ -74,6 +74,11 @@ Exploring how natural language interfaces can transform incident response workfl
 
 ## AI Research & Analysis
 
+### Hidden Vulnerabilities in AI Generated Software: Why Adversarial NLP Testing Should Include Geopolitical Context
+**[LinkedIn Article](https://www.linkedin.com/pulse/hidden-vulnerabilities-ai-generated-software-why-nlp-testing-matthew-jklve/)**
+
+Analysis of CrowdStrike research demonstrating how geopolitical context in prompts can increase vulnerability rates in AI-generated code, with recommendations for expanded adversarial testing procedures.
+
 ### AI That Thinks vs. AI That Predicts: A Polar Navigation Test
 **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_ai-machinelearning-reasoningai-activity-7301363303379787777-Gqjg)**
 
