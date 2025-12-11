@@ -122,7 +122,7 @@ Jupyter notebooks covering essential concepts in Generative AI and Large Languag
 - Model Context Protocol (MCP) integration for AI tool security
 
 ### GenAI Red Teaming Training
-**[GitHub Repository](https://github.com/schwartz1375/schwartz1375-genai-security-training)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375genai-security-training-activity-7404673550214705152-PhC6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+**[GitHub Repository](https://github.com/schwartz1375/genai-security-training)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375genai-security-training-activity-7404673550214705152-PhC6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
 
 Hands-on training series covering AI threat modeling, red/blue exercises for GenAI services, and governance guardrails with runnable labs and facilitator guidance.
 
