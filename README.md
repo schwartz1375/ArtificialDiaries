@@ -112,7 +112,7 @@ Exploring Apple's new first-party container CLI built on its Containerization fr
 ## Practical Implementations
 
 ### GenAI Essentials
-**[GitHub Repository](https://github.com/schwartz1375/genai-essentials)**
+**[GitHub Repository](https://github.com/schwartz1375/genai-essentials)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_genai-llm-rag-activity-7373691122923253760-AniL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
 
 Jupyter notebooks covering essential concepts in Generative AI and Large Language Models, including:
 - LLM security considerations and best practices
@@ -120,6 +120,11 @@ Jupyter notebooks covering essential concepts in Generative AI and Large Languag
 - Multimodal AI and document understanding
 - Agent frameworks and architectures
 - Model Context Protocol (MCP) integration for AI tool security
+
+### GenAI Red Teaming Training
+**[GitHub Repository](https://github.com/schwartz1375/schwartz1375-genai-security-training)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375genai-security-training-activity-7404673550214705152-PhC6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+
+Hands-on training series covering AI threat modeling, red/blue exercises for GenAI services, and governance guardrails with runnable labs and facilitator guidance.
 
 ### Secure MCP AgentCore for Amazon Bedrock
 
