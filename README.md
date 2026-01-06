@@ -132,7 +132,11 @@ Hands-on training series covering AI threat modeling, red/blue exercises for Gen
 
 Reference architecture and hands-on guides for securing Anthropic-style [“code execution with MCP”](https://www.anthropic.com/engineering/code-execution-with-mcp) patterns on AWS using Amazon Bedrock AgentCore, including strong isolation patterns, a design whitepaper, an executable lab notebook, and a console runbook.
 
----
+### KiroForge: Kiro Powers Framework
+
+**[GitHub Repository](https://github.com/schwartz1375/kiro-forge)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375kiro-forge-activity-7414288767999434752-ehAf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+
+Python toolkit for authoring, validating, and testing Kiro Powers. Modular agent capabilities that bundle tools, steering, and behavioral constraints into reusable, testable units. Features standardized POWER.md schema, validation CLI, interactive authoring workflows, and enterprise governance for scaling AI agent behaviors securely.
 
 ## About
 
