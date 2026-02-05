@@ -138,6 +138,12 @@ Reference architecture and hands-on guides for securing Anthropic-style [“code
 
 Python toolkit for authoring, validating, and testing Kiro Powers. Modular agent capabilities that bundle tools, steering, and behavioral constraints into reusable, testable units. Features standardized POWER.md schema, validation CLI, interactive authoring workflows, and enterprise governance for scaling AI agent behaviors securely.
 
+### GreyVctr AI Threat Intel (AI Shield Intelligence)
+
+**[GitHub Repository](https://github.com/GreyVctr/ai-threat-intel)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-greyvctrai-threat-intel-activity-7425163717467738112-CZ6E/)**  
+
+Open-source AI threat intelligence resources and tooling from GreyVctr, highlighting emerging adversarial techniques, analysis, and practical defensive guidance.
+
 ## About
 
 This collection represents ongoing research and analysis in AI security, machine learning operations, and emerging technology risks. Each publication addresses practical challenges faced by security professionals, engineers, and organizations adopting AI technologies.
