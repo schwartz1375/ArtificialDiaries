@@ -74,6 +74,11 @@ Exploring how natural language interfaces can transform incident response workfl
 
 ## AI Research & Analysis
 
+### Developers Now Own AI Output, Not Just Code
+**[LinkedIn Article](https://www.linkedin.com/pulse/developers-now-own-ai-output-just-code-matthew-schwartz-lbzte)** 
+
+Examining how developer ownership has expanded in the GenAI era beyond code authorship to include accountability for AI-generated output, emphasizing that verification has become the primary constraint as generation costs decrease.
+
 ### Hidden Vulnerabilities in AI Generated Software: Why Adversarial NLP Testing Should Include Geopolitical Context
 **[LinkedIn Article](https://www.linkedin.com/pulse/hidden-vulnerabilities-ai-generated-software-why-nlp-testing-matthew-jklve/)**
 
