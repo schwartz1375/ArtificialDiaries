@@ -4,6 +4,11 @@ This repository showcases my research, practical implementations, and thought le
 
 ## Featured Publications
 
+### Provable Assurance for Agentic Systems
+**[LinkedIn Article](https://www.linkedin.com/posts/schwartz1375_provable-assurance-for-agentic-systems-activity-7447972853733371904-z0S2)** | **[PDF](./PDFs/provable_assurance_agentic_systems_whitepaper.pdf)**
+
+Whitepaper presenting a verification framework for AI systems that reason and act autonomously. Argues that traditional AppSec models are insufficient for agentic and neuro-symbolic systems, and introduces provable assurance — a layered operating model combining formal methods, continuous security evaluation, evidence-driven policy enforcement, and renewable approval. Includes an assurance claims matrix, threat taxonomy for agentic systems, worked failure scenarios, a phased maturity model, and practical workstreams for building verification infrastructure.
+
 ### AI Agents Security
 **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_ai-agents-security-threat-models-mitigations-activity-7383118979332145152-lnMk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)** | **[PDF](./PDFs/AI_Agents_Security.pdf)**
 
