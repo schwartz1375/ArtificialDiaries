@@ -15,7 +15,7 @@ Whitepaper presenting a verification framework for AI systems that reason and ac
 Collaboration with Nur Gucu to integrate the Provable Assurance framework into ORPHEUS — a multi-skill AI system builder. The contribution adds named assurance claims with explicit validation methods, machine-readable evidence packages, renewal triggers for re-validation on change, and a catalog extension pattern for industry-specific assurance profiles. The integration brings claim-based safety verification into a working agentic framework using natural language and zero infrastructure.
 
 ### AI Agents Security
-**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_ai-agents-security-threat-models-mitigations-activity-7383118979332145152-lnMk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)** | **[PDF](./PDFs/AI_Agents_Security.pdf)**
+**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_ai-agents-security-threat-models-mitigations-activity-7383118979332145152-lnMk)** | **[PDF](./PDFs/AI_Agents_Security.pdf)**
 
 Slide presentation covering key concepts in AI agent security, including threat models, attack surfaces, and considerations across tools, memory, and orchestration layers.
 ### Memory for Agentic AI
@@ -89,6 +89,11 @@ Exploring how natural language interfaces can transform incident response workfl
 
 Examining how developer ownership has expanded in the GenAI era beyond code authorship to include accountability for AI-generated output, emphasizing that verification has become the primary constraint as generation costs decrease.
 
+### Velocity Without Assurance: The Real Risk of GenAI Agents
+**[LinkedIn Article](https://www.linkedin.com/posts/schwartz1375_agentic-ai-can-move-faster-than-most-organizations-ugcPost-7460504108307877888-Ir0o)**
+
+Examining the gap between agentic AI's ability to generate outputs and an organization's capacity to validate them. Argues that trust in agent-produced artifacts (threat models, pull requests, detections, policy recommendations) must be grounded in explicit claims, measurable evidence, and continuous evaluation rather than demonstration-level confidence. Connects to prior work on Provable Assurance for Agentic Systems.
+
 ### Hidden Vulnerabilities in AI Generated Software: Why Adversarial NLP Testing Should Include Geopolitical Context
 **[LinkedIn Article](https://www.linkedin.com/pulse/hidden-vulnerabilities-ai-generated-software-why-nlp-testing-matthew-jklve/)**
 
@@ -127,7 +132,7 @@ Exploring Apple's new first-party container CLI built on its Containerization fr
 ## Practical Implementations
 
 ### GenAI Essentials
-**[GitHub Repository](https://github.com/schwartz1375/genai-essentials)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_genai-llm-rag-activity-7373691122923253760-AniL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+**[GitHub Repository](https://github.com/schwartz1375/genai-essentials)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_genai-llm-rag-activity-7373691122923253760-AniL)**
 
 Jupyter notebooks covering essential concepts in Generative AI and Large Language Models, including:
 - LLM security considerations and best practices
@@ -137,19 +142,19 @@ Jupyter notebooks covering essential concepts in Generative AI and Large Languag
 - Model Context Protocol (MCP) integration for AI tool security
 
 ### GenAI Red Teaming Training
-**[GitHub Repository](https://github.com/schwartz1375/genai-security-training)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375genai-security-training-activity-7404673550214705152-PhC6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+**[GitHub Repository](https://github.com/schwartz1375/genai-security-training)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375genai-security-training-activity-7404673550214705152-PhC6)**
 
 Hands-on training series covering AI threat modeling, red/blue exercises for GenAI services, and governance guardrails with runnable labs and facilitator guidance.
 
 ### Secure MCP AgentCore for Amazon Bedrock
 
-**[GitHub Repository](https://github.com/schwartz1375/secure_mcp_agentcore)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_aws-amazonbedrock-agentcore-share-7396530706883026944-ATvy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+**[GitHub Repository](https://github.com/schwartz1375/secure_mcp_agentcore)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_aws-amazonbedrock-agentcore-share-7396530706883026944-ATvy)**
 
 Reference architecture and hands-on guides for securing Anthropic-style [“code execution with MCP”](https://www.anthropic.com/engineering/code-execution-with-mcp) patterns on AWS using Amazon Bedrock AgentCore, including strong isolation patterns, a design whitepaper, an executable lab notebook, and a console runbook.
 
 ### KiroForge: Kiro Powers Framework
 
-**[GitHub Repository](https://github.com/schwartz1375/kiro-forge)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375kiro-forge-activity-7414288767999434752-ehAf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADMaWYB4jUtLM3RsGikir4_C64eBzeB3Zc)**
+**[GitHub Repository](https://github.com/schwartz1375/kiro-forge)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_github-schwartz1375kiro-forge-activity-7414288767999434752-ehAf)**
 
 Python toolkit for authoring, validating, and testing Kiro Powers. Modular agent capabilities that bundle tools, steering, and behavioral constraints into reusable, testable units. Features standardized POWER.md schema, validation CLI, interactive authoring workflows, and enterprise governance for scaling AI agent behaviors securely.
 
