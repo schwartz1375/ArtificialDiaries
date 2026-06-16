@@ -124,6 +124,11 @@ Analysis of emergent capabilities in large language models and their implication
 
 Technical guide to deploying open-source AI models locally.
 
+### On-Device LLMs on Apple Platforms: llama.cpp vs LiteRT-LM vs Core AI
+**[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_on-device-llms-on-apple-platforms-ugcPost-7472791556392046593-6sS6/)** | **[PDF](./PDFs/on-device-llms-apple-platforms.pdf)**
+
+Field guide comparing three runtime paths for running local language models on Apple platforms. Evaluates llama.cpp (the practical shipping default), Google's LiteRT-LM (a promising cross-platform preview), and Apple's Core AI (the native strategic option for iOS 26+). Focuses on production realities including app lifecycle management, model availability, and architectural patterns for runtime abstraction.
+
 ### macOS 26 Apple Container CLI: First-Party Containerization for AI Workloads
 **[GitHub Repository](https://github.com/schwartz1375/openwebui-apple-container)** | **[LinkedIn Post](https://www.linkedin.com/posts/schwartz1375_macos-26-apple-container-activity-7373530681509064704-eYxB)**
 
