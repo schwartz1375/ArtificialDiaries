@@ -169,6 +169,12 @@ Python toolkit for authoring, validating, and testing Kiro Powers. Modular agent
 
 An open-source AI threat intelligence project focused on advanced research into adversarial attacks against AI and LLM systems, with an emphasis on understanding techniques before they become mainstream. Includes research-driven adversarial techniques and attack patterns, technical analysis and references, and practical defensive considerations for AI builders and security teams.
 
+### GreyVctr-AI: On-Device AI Assistant for the National Guard
+
+**[GitHub Repository](https://github.com/GreyVctr/GreyVctr-AI)**
+
+A community iOS app that runs fully on-device inference with LiteRT-LM and an on-device Gemma model. No cloud inference, no accounts, and prompts, images, and responses stay on the device. Features multi-turn AI chat with token streaming, multimodal visual Q&A, and a generic Agent Skills layer driven by bundled SKILL.md files (shift turnovers, SITREPs, readiness checklists, risk matrices, AARs). A community project, not official or endorsed by the DoD, NGB, or any National Guard organization.
+
 ## About
 
 This collection represents ongoing research and analysis in AI security, machine learning operations, and emerging technology risks. Each publication addresses practical challenges faced by security professionals, engineers, and organizations adopting AI technologies.
