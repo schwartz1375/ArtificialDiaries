@@ -2,6 +2,13 @@
 
 This repository showcases my research, practical implementations, and thought leadership in AI security, machine learning, and emerging technologies. Most content is originally published on my [LinkedIn profile](https://www.linkedin.com/in/schwartz1375/).
 
+## Talks & Presentations
+
+### Velocity Without Assurance: Evidence-Backed Trust for Agentic AI Systems
+**[Black Hat USA 2026](https://blackhat.com/us-26/sponsored-sessions/schedule/index.html?day=wednesday#velocity-without-assurance-evidence-backed-trust-for-agentic-ai-systems-56117)** | **[White Paper](./PDFs/provable_assurance_agentic_systems_whitepaper.pdf)** | **[Code Audit Demo](https://github.com/getprimary/pa-code-audit-demo)**
+
+Black Hat USA 2026 sponsored session presenting the Provable Assurance framework for agentic AI. It covers why demonstration-level confidence falls short for autonomous systems, and how evidence-backed trust grounded in explicit assurance claims, machine-readable evidence, and continuous evaluation closes the gap between how fast agents generate outputs and how quickly organizations can validate them. A live code audit demo shows the approach in practice.
+
 ## Featured Publications
 
 ### Provable Assurance for Agentic Systems
