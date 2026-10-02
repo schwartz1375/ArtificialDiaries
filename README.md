@@ -91,6 +91,11 @@ Exploring how natural language interfaces can transform incident response workfl
 
 ## AI Research & Analysis
 
+### What We Checked Should Mean in the Age of AI
+**[LinkedIn Article](https://www.linkedin.com/pulse/what-we-checked-should-mean-age-ai-matthew-schwartz-iqhse/)**
+
+Argues that "we checked and found nothing" is only as meaningful as the method behind it, since a keyword search, a sample, or a full-population review each support a different conclusion. AI lowers the cost of per-item review for unstructured material like contracts, configuration files, and technical documents, making full-inventory first passes feasible where teams once reviewed only a selection. Stresses that coverage and correctness need separate evidence, and that reliable AI review still depends on a model validated for the task and source material.
+
 ### Developers Now Own AI Output, Not Just Code
 **[LinkedIn Article](https://www.linkedin.com/pulse/developers-now-own-ai-output-just-code-matthew-schwartz-lbzte)** 
 
