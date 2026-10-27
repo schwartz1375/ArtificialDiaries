@@ -91,6 +91,11 @@ Exploring how natural language interfaces can transform incident response workfl
 
 ## AI Research & Analysis
 
+### Agentic AI Is Rediscovering the Sandbox. Assurance Is the Next Step.
+**[LinkedIn Article](https://www.linkedin.com/pulse/agentic-ai-rediscovering-sandbox-assurance-next-step-matthew-schwartz-kc3je)**
+
+Examines the rise of local command sandboxing for AI agents (Kiro's Seatbelt/bubblewrap/AppContainer release, Anthropic's Claude Code approach) and situates it within the longer history of isolation techniques like Firecracker microVMs, Bedrock AgentCore, and Apple Containerization. Argues that "sandbox" alone does not establish the strength or scope of a boundary, and that isolation, identity, and authorization must work together. Positions sandboxing within the Provable Assurance framework as an enforceable execution boundary bound to explicit authority and verifiable evidence, enabling bounded autonomy that people and downstream systems can evaluate before accepting a result. Builds on the [Provable Assurance for Agentic Systems](#provable-assurance-for-agentic-systems) framework.
+
 ### What We Checked Should Mean in the Age of AI
 **[LinkedIn Article](https://www.linkedin.com/pulse/what-we-checked-should-mean-age-ai-matthew-schwartz-iqhse/)**
 
